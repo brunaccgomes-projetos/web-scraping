@@ -1,0 +1,24 @@
+{
+  "jogadores": [
+    {
+      "nome": "arrascaeta",
+      "codigo": "be8d02dd",
+      "st_process": 1
+    },
+    {
+      "nome": "evertonribeiro",
+      "codigo": "68fb50a2",
+      "st_process": 1
+    }
+  ],
+  "anos": [2019, 2020, 2021, 2022, 2023, 2024],
+  "tipos_registro": {
+    "Resumo": "summary",
+    "Passes": "passing",
+    "Tipos de Passes": "passing_types",
+    "Gols e Criação de Chutes": "gca",
+    "Ações Defensivas": "defense",
+    "Posse": "possession",
+    "Estatísticas Variadas": "misc"
+  }
+}
